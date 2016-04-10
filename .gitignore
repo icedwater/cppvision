@@ -1,0 +1,13 @@
+# swap files
+*.swp
+*~
+
+# binaries
+*.out
+*.exe
+
+# cmake junk
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
