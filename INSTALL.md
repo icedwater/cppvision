@@ -49,8 +49,12 @@ order to install the correct version of libpcre3-dev that libgtk2.0-dev needs:
 
 However, there is still an issue with held packages (specific version numbers),
 which I am yet to resolve. It seems the chain runs pretty far down, so it might
-be a lot easier to wait till the next LTS version of Ubuntu (16.04) to try this
-again.
+be a lot easier to wait till the next Long-Term Support (LTS) version of Ubuntu
+(16.04) to try this again.
+
+**NOTE** This seems to be the best course for action unless one has a 14.04 box
+available; [installation instructions][v2tut] seem to be running fine with that
+LTS distribution.
 
 ## Optional Packages
  * libtbb2 libtbb-dev
